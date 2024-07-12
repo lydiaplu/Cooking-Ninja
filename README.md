@@ -21,3 +21,7 @@ Recipe Manager App is a web application that allows users to manage their favori
 - **Edit Recipes**: Users can update existing recipes to modify their details.
 - **Delete Recipes**: Users can remove recipes they no longer need.
 - **User Authentication**: Secure user login and registration using Firebase Authentication.
+
+
+<img width="1361" alt="image" src="https://github.com/user-attachments/assets/710ba711-2ed6-4e33-a7e7-7ed27381cf95">
+
